@@ -1,0 +1,41 @@
+Prerquistites:
+
+- Texit editor = VS Code, Atom, Sublime Text, Notepad
+- Web browser
+
+TODOs:
+
+1. Build the project
+    - creating the folder
+    - addining files
+    - connecting files
+
+2. Navbar
+    - 2 links and a name
+
+3. Portfolio itme grid (3x4)
+    - images
+    - titles
+    - descriptions
+    - animations
+    - JS
+
+4. About page
+    - images
+    - split column layout
+    - content
+
+
+Portfolio
+    IT Deluxe
+    ADP
+    Rome2rio
+    Shortprod
+    Distributen
+    Promenadebooks
+    Gooinski Games
+    20 minute neigbourhoods
+    Trains
+    Ferns
+    Wealth Portfolio and Budget
+    Travel
